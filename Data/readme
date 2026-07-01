@@ -1,1 +1,6 @@
-Place .fcs files here for FACS data
+Use this folder to store data relative to FACS and Sequencing Pipeline
+
+This includes but is not limited to the follwoing:
+.fcs files for FACS data
+.gbk, .fastq, .fasta, .ab1 files for sequencing 
+.pdb for protein databank analysis 
